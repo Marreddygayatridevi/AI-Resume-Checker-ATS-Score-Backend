@@ -1,0 +1,28 @@
+Role: Software Engineer
+
+Summary:
+A Software Engineer designs, develops, tests, and maintains software applications and systems. They work collaboratively to solve technical problems and deliver high-quality software solutions.
+
+Key Responsibilities:
+- Design, develop, and maintain software applications
+- Write clean, efficient, and well-documented code
+- Collaborate with cross-functional teams to define and implement new features
+- Troubleshoot, debug, and upgrade existing software
+- Participate in code reviews and contribute to best practices
+- Ensure software meets quality, security, and performance standards
+
+Required Skills:
+- Proficiency in programming languages (e.g., Java, Python, C#, JavaScript)
+- Strong understanding of software development methodologies (e.g., Agile, Scrum)
+- Experience with version control systems (e.g., Git)
+- Problem-solving and analytical thinking skills
+- Good communication and teamwork abilities
+
+Education:
+- Bachelor’s degree in Computer Science, Software Engineering, or a related field
+
+Preferred Qualifications:
+- Experience with cloud platforms (e.g., AWS, Azure, Google Cloud)
+- Familiarity with DevOps practices and CI/CD pipelines
+- Knowledge of databases and web technologies
+- Previous experience in a similar role

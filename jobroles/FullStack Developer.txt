@@ -1,0 +1,32 @@
+Role: Full Stack Developer
+
+Summary:
+A Full Stack Developer is responsible for designing, developing, and maintaining both front-end and back-end components of web applications. They collaborate with stakeholders to deliver scalable, high-quality solutions that meet business objectives.
+
+Key Responsibilities:
+- Develop and maintain web applications using front-end and back-end technologies
+- Design and implement user interfaces and APIs
+- Collaborate with UI/UX designers, product managers, and other developers
+- Optimize applications for maximum speed and scalability
+- Troubleshoot, debug, and resolve technical issues across the stack
+- Write and maintain technical documentation
+- Participate in code reviews and adhere to best development practices
+
+Required Skills:
+- Proficiency in front-end technologies (e.g., HTML, CSS, JavaScript, React, Angular, or Vue.js)
+- Experience with back-end frameworks (e.g., Node.js, Express, Django, Ruby on Rails, or Spring Boot)
+- Strong understanding of RESTful APIs and web services
+- Familiarity with databases (SQL and NoSQL)
+- Experience with version control systems (e.g., Git)
+- Good problem-solving and analytical skills
+- Effective communication and teamwork abilities
+
+Education:
+- Bachelor’s degree in Computer Science, Software Engineering, Information Technology, or a related field
+
+Preferred Qualifications:
+- Experience with cloud platforms (e.g., AWS, Azure, Google Cloud)
+- Familiarity with DevOps practices and CI/CD pipelines
+- Knowledge of containerization (e.g., Docker, Kubernetes)
+- Understanding of security best practices in web development
+- Previous experience in a full stack development role

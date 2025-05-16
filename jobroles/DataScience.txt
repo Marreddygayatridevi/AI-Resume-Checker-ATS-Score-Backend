@@ -1,0 +1,29 @@
+Role: Data Scientist
+
+Summary:
+A Data Scientist utilizes advanced analytics, machine learning, and statistical methods to extract insights from large and complex datasets. They build predictive models and provide data-driven solutions to business challenges.
+
+Key Responsibilities:
+- Collect, clean, and preprocess large datasets from multiple sources
+- Develop and implement machine learning models and algorithms
+- Perform exploratory data analysis and feature engineering
+- Interpret and communicate findings to technical and non-technical stakeholders
+- Collaborate with cross-functional teams to deploy data-driven solutions
+- Stay updated with the latest data science trends and technologies
+
+Required Skills:
+- Proficiency in Python or R for data analysis and modeling
+- Experience with machine learning frameworks (e.g., scikit-learn, TensorFlow, PyTorch)
+- Strong knowledge of statistics and probability
+- Familiarity with SQL and data manipulation tools
+- Data visualization skills (e.g., Matplotlib, Seaborn, Tableau)
+- Excellent problem-solving and critical thinking abilities
+
+Education:
+- Bachelor’s or Master’s degree in Computer Science, Statistics, Mathematics, Data Science, or a related field
+
+Preferred Qualifications:
+- Experience with big data technologies (e.g., Hadoop, Spark)
+- Knowledge of cloud platforms (e.g., AWS, Azure, GCP)
+- Previous experience in a data science or related role
+- Understanding of deep learning and natural language processing

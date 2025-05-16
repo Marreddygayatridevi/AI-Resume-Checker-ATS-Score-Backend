@@ -1,0 +1,26 @@
+Role: Data Analyst
+
+Summary:
+A Data Analyst collects, processes, and performs statistical analyses on large datasets. They discover how data can be used to answer questions and solve problems.
+
+Key Responsibilities:
+- Collect and interpret data from various sources
+- Analyze results using statistical techniques
+- Develop and implement data analyses, data collection systems, and other strategies
+- Identify, analyze, and interpret trends or patterns in complex data sets
+- Prepare reports and present findings to stakeholders
+
+Required Skills:
+- Proficiency in SQL, Excel, and data visualization tools (e.g., Tableau, Power BI)
+- Strong analytical and problem-solving skills
+- Experience with statistical programming languages (e.g., Python, R)
+- Attention to detail and accuracy
+- Good communication and presentation skills
+
+Education:
+- Bachelor’s degree in Mathematics, Statistics, Computer Science, Information Management, or a related field
+
+Preferred Qualifications:
+- Experience with big data tools (e.g., Hadoop, Spark)
+- Knowledge of machine learning techniques
+- Previous experience in a similar role

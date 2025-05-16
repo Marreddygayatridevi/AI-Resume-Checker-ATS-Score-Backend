@@ -1,0 +1,27 @@
+Role: Software Developer
+
+Summary:
+A Software Developer designs, develops, tests, and maintains software applications or systems. They work closely with stakeholders to understand requirements and deliver high-quality solutions that meet business needs.
+
+Key Responsibilities:
+- Design, code, and test software applications based on requirements
+- Collaborate with cross-functional teams to define and deliver new features
+- Troubleshoot, debug, and upgrade existing software
+- Write and maintain technical documentation
+- Participate in code reviews and follow best practices for software development
+
+Required Skills:
+- Proficiency in one or more programming languages (e.g., Java, Python, C#, JavaScript)
+- Strong problem-solving and analytical skills
+- Experience with version control systems (e.g., Git)
+- Understanding of software development methodologies (e.g., Agile, Scrum)
+- Good communication and teamwork abilities
+
+Education:
+- Bachelor’s degree in Computer Science, Software Engineering, Information Technology, or a related field
+
+Preferred Qualifications:
+- Experience with cloud platforms (e.g., AWS, Azure, Google Cloud)
+- Familiarity with DevOps practices and CI/CD pipelines
+- Knowledge of databases and web technologies
+- Previous experience in a similar role

@@ -1,0 +1,29 @@
+Data Engineer
+
+Summary:
+A Data Engineer designs, builds, and maintains scalable data pipelines and architectures for collecting, processing, and storing large datasets. They collaborate with data scientists, analysts, and other stakeholders to ensure data availability, quality, and reliability for analytics and business intelligence.
+
+Key Responsibilities:
+- Develop, construct, test, and maintain data architectures and pipelines
+- Integrate data from multiple sources and ensure data consistency and quality
+- Optimize data delivery and automate manual processes
+- Collaborate with data scientists and analysts to support data needs
+- Monitor, troubleshoot, and improve data workflows and performance
+- Document data processes, architectures, and workflows
+
+Required Skills:
+- Proficiency in programming languages such as Python, SQL, or Scala
+- Experience with ETL tools and data pipeline frameworks (e.g., Apache Airflow, Luigi)
+- Strong understanding of relational and non-relational databases (e.g., PostgreSQL, MongoDB)
+- Familiarity with big data technologies (e.g., Hadoop, Spark)
+- Knowledge of data modeling, warehousing, and data governance
+- Strong problem-solving and analytical skills
+
+Education:
+- Bachelor’s degree in Computer Science, Information Systems, Engineering, or a related field
+
+Preferred Qualifications:
+- Experience with cloud data platforms (e.g., AWS Redshift, Google BigQuery, Azure Data Lake)
+- Familiarity with containerization and orchestration tools (e.g., Docker, Kubernetes)
+- Knowledge of data security and privacy best practices
+- Previous experience in a similar data engineering role

@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+sqlalchemy
+psycopg2-binary
+python-dotenv
+pydantic
+PyMuPDF
+langchain
+openai
+faiss-cpu
+langchain
+langchain-community
+langchain-openai
+faiss-cpu
+tiktoken
+python-dotenv
